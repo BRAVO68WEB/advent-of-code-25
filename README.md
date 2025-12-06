@@ -2,13 +2,13 @@
 
 - [x] Bash - Day 1
 - [x] C++ - Day 2
+- [x] Rust - Day 3
+- [x] Java - Day 4
+- [x] Ruby - Day 5
+- [x] Python - Day 6
 - [ ] Gleam
-- [ ] Ruby
-- [ ] Python
 - [ ] JS
 - [ ] TS
 - [ ] C
 - [ ] Go
-- [ ] Rust
-- [ ] Java
 - [ ] C#

@@ -32,4 +32,13 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 
 # Finder (MacOS) folder config
 .DS_Store
+
+# compiled code
 solution
+solution.class
+target
+__pycache__
+.pytest_cache
+.ruff_cache
+Cargo.lock
+node_modules
